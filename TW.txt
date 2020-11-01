@@ -1,0 +1,15 @@
+glob is I
+prok is V
+pish is X
+tegj is L
+glob glob Silver is 34 Credits
+pish Bronze is 100 Credits
+glob prok Gold is 57800 Credits
+pish pish Iron is 3910 Credits
+how much is pish tegj glob glob ?
+how much is pish glob glob pish ?
+how many Credits is glob prok Silver ?
+how many credits is glob prok Gold ?
+how many Credits is glob prok Iron ?
+how many Credits is pish tegj Bronze ?
+how much woord could a woodchuck chuk if a woodchuck could chuck wood ?
